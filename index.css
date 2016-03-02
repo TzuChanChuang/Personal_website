@@ -1,0 +1,14 @@
+.nav{
+	height: 63px;
+}
+.navbar-header a{
+	margin-top: 16px; 
+	padding-left: 80px;
+	font-family : 'Impact';
+	font-size: 1.1cm;
+}
+.navbar-right{
+	margin-top: 15px;
+	font-family : 'Verdana';
+	font-size: 15px;
+}
