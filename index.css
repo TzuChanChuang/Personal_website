@@ -27,3 +27,26 @@
 	color: #7B7B7B;
 	overflow: hidden;
 }
+
+.annotation{
+	font-size: 23px;
+	font-family : 'Impact';
+	color: #7B7B7B;
+	overflow: hidden;
+	margin-top: 30px; 
+	text-align: center;
+}
+.date{
+	font-size: 15px;
+	font-family : 'Verdana';
+	color: #7B7B7B;
+	overflow: hidden;
+	text-align: center;
+}
+.divider{
+	font-size: 25px;
+	font-family : 'Comic Sans MS';
+	color: #7B7B7B;
+	overflow: hidden;
+	text-align: center;
+}
