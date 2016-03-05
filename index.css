@@ -12,3 +12,18 @@
 	font-family : 'Verdana';
 	font-size: 15px;
 }
+.i_need_center{
+  	text-align: left;
+  	display:                 flex;
+  display:                 -webkit-flex; /* Safari */
+  flex-wrap:               wrap;
+  -webkit-flex-wrap:       wrap;         /* Safari */
+  justify-content:         center;
+  -webkit-justify-content: center;       /* Safari */
+}
+.about{
+	font-size: 20px;
+	font-family : 'Comic Sans MS';
+	color: #7B7B7B;
+	overflow: hidden;
+}
